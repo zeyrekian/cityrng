@@ -1,0 +1,207 @@
+available: true
+id: 1
+mainset:
+- names:
+  - name: Aadorp
+    probability: 1
+  - name: Aagtekerke
+    probability: 1
+  - name: Aalden
+    probability: 1
+  - name: Aalsmeer
+    probability: 1
+  - name: Aalsmeerderbrug
+    probability: 1
+  - name: Aalst
+    probability: 1
+  - name: Aalsum
+    probability: 1
+  - name: Aalten
+    probability: 1
+  - name: Ter Aar
+    probability: 1
+  - name: Ter Aard
+    probability: 1
+  - name: Aardenburg
+    probability: 1
+  - name: Aarlanderveen
+    probability: 1
+  - name: Aarle-Rixtel
+    probability: 1
+  - name: Aartswoud
+    probability: 1
+  - name: Abbega
+    probability: 1
+  - name: Abbekerk
+    probability: 1
+  - name: Abbenbroek
+    probability: 1
+  - name: Abbenes
+    probability: 1
+  - name: Abcoude
+    probability: 1
+  - name: Achlum
+    probability: 1
+  - name: Achterveld
+    probability: 1
+  - name: Achthuizen
+    probability: 1
+  - name: Achtmaal
+    probability: 1
+  - name: Acquoy
+    probability: 1
+  - name: Adorp
+    probability: 1
+  - name: Aduard
+    probability: 1
+  - name: Aerdenhout
+    probability: 1
+  - name: Aerdt
+    probability: 1
+  - name: Afferden
+    probability: 1
+  - name: Afferden L
+    probability: 1
+  - name: Agelo
+    probability: 1
+  - name: Akersloot
+    probability: 1
+  - name: Akkrum
+    probability: 1
+  - name: Akmarijp
+    probability: 1
+  - name: Albergen
+    probability: 1
+  - name: Alblasserdam
+    probability: 1
+  - name: Alde Leie
+    probability: 1
+  - name: Aldeboarn
+    probability: 1
+  - name: Aldtsjerk
+    probability: 1
+  - name: Alem
+    probability: 1
+  - name: Alkmaar
+    probability: 1
+  - name: Allingawier
+    probability: 1
+  - name: Almelo
+    probability: 1
+  - name: Almen
+    probability: 1
+  - name: Almere
+    probability: 1
+  - name: Almkerk
+    probability: 1
+  - name: Alphen
+    probability: 1
+  - name: Alphen aan den Rijn
+    probability: 1
+  - name: Alteveer
+    probability: 1
+  - name: Alteveer gem Hoogeveen
+    probability: 1
+  - name: Altforst
+    probability: 1
+  - name: Ambt Delden
+    probability: 1
+  - name: Ameide
+    probability: 1
+  - name: Amen
+    probability: 1
+  - name: America
+    probability: 1
+  - name: Amerongen
+    probability: 1
+  - name: Amersfoort
+    probability: 1
+  - name: Ammerstol
+    probability: 1
+  - name: Ammerzoden
+    probability: 1
+  - name: Amstelhoek
+    probability: 1
+  - name: Amstelveen
+    probability: 1
+  - name: Amstenrade
+    probability: 1
+  - name: Amsterdam
+    probability: 1
+  - name: Amsterdam-Duivendrecht
+    probability: 1
+  - name: Andel
+    probability: 1
+  - name: Den Andel
+    probability: 1
+  - name: Andelst
+    probability: 1
+  - name: Anderen
+    probability: 1
+  - name: Andijk
+    probability: 1
+  - name: Ane
+    probability: 1
+  - name: Anerveen
+    probability: 1
+  - name: Anevelde
+    probability: 1
+  - name: Angeren
+    probability: 1
+  - name: Angerlo
+    probability: 1
+  - name: Anjum
+    probability: 1
+  - name: Ankeveen
+    probability: 1
+  - name: Anloo
+    probability: 1
+  - name: Anna Paulowna
+    probability: 1
+  - name: Annen
+    probability: 1
+  - name: Annerveenschekanaal
+    probability: 1
+  - name: Ansen
+    probability: 1
+  - name: Ter Apel
+    probability: 1
+  - name: Apeldoorn
+    probability: 1
+  - name: Ter Apelkanaal
+    probability: 1
+  - name: Appelscha
+    probability: 1
+  - name: Appeltern
+    probability: 1
+  - name: Appingedam
+    probability: 1
+  - name: Arcen
+    probability: 1
+  - name: Arkel
+    probability: 1
+  - name: Arnemuiden
+    probability: 1
+  - name: Arnhem
+    probability: 1
+  - name: Arriën
+    probability: 1
+  - name: Arum
+    probability: 1
+  - name: Asch
+    probability: 1
+  - name: Asperen
+    probability: 1
+  - name: Assen
+    probability: 1
+  - name: Assendelft
+    probability: 1
+  - name: Asten
+    probability: 1
+  - name: Augsbuurt
+    probability: 1
+  - name: Augustinusga
+    probability: 1
+name: Dutch (real)
+source: https://opendata.cbs.nl/#/CBS/nl/dataset/84734NED/table?dl=40CC6
+subsets: []

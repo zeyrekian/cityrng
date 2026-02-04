@@ -1,0 +1,89 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: ''
+    probability: 100
+  - name: '@prefix'
+    probability: 1
+- names:
+  - name: '''s-Graven'
+    probability: 1
+  - name: Haar
+    probability: 1
+  - name: Kat
+    probability: 1
+  - name: Nieuwer
+    probability: 1
+  - name: Noord
+    probability: 1
+  - name: Oost
+    probability: 1
+  - name: Oude
+    probability: 1
+  - name: Papen
+    probability: 1
+  - name: Rotter
+    probability: 1
+- names:
+  - name: dam
+    probability: 1
+  - name: deel
+    probability: 1
+  - name: drecht
+    probability: 1
+  - name: land
+    probability: 1
+  - name: moer
+    probability: 1
+  - name: molen
+    probability: 1
+  - name: polder
+    probability: 1
+  - name: steeg
+    probability: 1
+  - name: wijk
+    probability: 1
+  - name: zande
+    probability: 1
+- names:
+  - name: ''
+    probability: 20
+  - name: '@aan'
+    probability: 1
+name: Dutch (fictional)
+source: null
+subsets:
+- name: aan
+  parts:
+  - names:
+    - name: ' aan '
+      probability: 1
+  - names:
+    - name: '@den'
+      probability: 3
+    - name: Zee
+      probability: 1
+    - name: de Lek
+      probability: 1
+- name: prefix
+  parts:
+  - names:
+    - name: 'Oud '
+      probability: 1
+    - name: 'Sint '
+      probability: 1
+    - name: 'De '
+      probability: 1
+- name: den
+  parts:
+  - names:
+    - name: 'den '
+      probability: 1
+  - names:
+    - name: Hoef
+      probability: 1
+    - name: IJssel
+      probability: 1
+    - name: Rijn
+      probability: 1
