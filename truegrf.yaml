@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f2cf635c
 license: CC0-1.0
+name: cityrng
 type: townname
+url: https://github.com/zeyrekian/cityrng
 version: 6
